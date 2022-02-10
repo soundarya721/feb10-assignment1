@@ -1,0 +1,10 @@
+#positive or negative
+n=int(input('positive'))
+if n>=0:
+    print('positive')
+else:
+     print('negative')
+     
+     
+ output
+ positive
