@@ -1,0 +1,25 @@
+[19:30, 10/02/2022] ㅤ: sno=int(input('enter student no:'))
+sname=input('enter student name:')
+sgroup=input('enter student group:')
+s1=int(input('maths marks:'))
+s2=int(input('electronis marks:'))
+s3=int(input('computer science marks:'))
+s4=int(input('english marks:'))
+s5=int(input('survey and reporting marks:'))
+s6=int(input('telugu:'))
+if s1>=35 and s2>=35 and s3<=35 and s4<>=35 and s5>=35 and s6>=35:
+     print('pass')
+else:
+     print('fail')
+
+
+output
+enter student no:19
+enter student name:kusuma
+enter student group:MECS
+maths marks:57
+electronics marks:68
+computer science marks:78
+english marks:80
+survey and reporting marks:45
+telugu marks:79
